@@ -1,0 +1,7 @@
+customtkinter
+requests
+pyautogui
+pynput
+psutil
+opencv-python
+pyinstaller
