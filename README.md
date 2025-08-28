@@ -13,7 +13,7 @@ Xesu Stealer is a graphical user interface (GUI) application designed for creati
 - **Browser Data Extraction:** Supports Chrome, Edge, Opera, and Brave browsers for stealing passwords, cookies, browsing history, download history, and credit card details.
 - **Discord Tokens:** Extracts up to 5 MFA-protected tokens from local storage.
 - **Discord Injection:** Simulates injection status (enabled/disabled).
-- **Roblox Accounts:** Retrieves usernames from Roblox configuration files.
+- **Roblox Accounts:** Retrieves cookies from Roblox configuration files.
 - **Wallets, Games, and Apps:** Session file extraction for wallets, game launchers (e.g., Steam/Epic), and apps like Telegram.
 - **Extensions and Interesting Files:** Scans for browser extensions and user-defined interesting files.
 - **Media Capture:** Takes webcam shots and screenshots, encoding them in Base64 for transmission.
