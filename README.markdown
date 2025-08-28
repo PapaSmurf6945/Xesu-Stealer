@@ -1,8 +1,8 @@
-# Xesu Stealer Builder
+# Xesu Stealer
 
 ## Overview
 
-Xesu Stealer Builder is a graphical user interface (GUI) application designed for creating customizable data extraction and system manipulation tools targeted at Windows environments. It allows users to configure various stealer and malware functionalities, integrate a Discord webhook for data exfiltration, and build the output as either a Python script or a standalone executable (.exe) file. The tool supports features like browser data theft, token grabbing, screenshot capture, and disruptive actions such as input blocking or system shutdown.
+Xesu Stealer is a graphical user interface (GUI) application designed for creating customizable data extraction and system manipulation tools targeted at Windows environments. It allows users to configure various stealer and malware functionalities, integrate a Discord webhook for data exfiltration, and build the output as either a Python script or a standalone executable (.exe) file. The tool supports features like browser data theft, token grabbing, screenshot capture, and disruptive actions such as input blocking or system shutdown.
 
 **Note:** This tool is intended for educational and research purposes only, such as cybersecurity analysis or penetration testing in controlled environments. Misuse for unauthorized data collection, system disruption, or any illegal activities is strictly prohibited and may violate laws like the Computer Fraud and Abuse Act (CFAA) or equivalent regulations in your jurisdiction. The developers assume no liability for any misuse.
 
@@ -58,7 +58,7 @@ Xesu Stealer Builder is a graphical user interface (GUI) application designed fo
 
 1. Run the builder:
    ```bash
-   python xesu_builder.py
+   python builder.py
    ```
 
 2. In the GUI:
