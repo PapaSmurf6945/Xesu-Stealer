@@ -40,18 +40,22 @@ Administrator privileges may be required for certain features (e.g., registry mo
 Installation
 
 Clone or download the repository:
-textgit clone https://github.com/PapaSmurf6945/Xesu-Stealer.git
+git clone https://github.com/PapaSmurf6945/Xesu-Stealer.git
 cd Xesu-Stealer
 
+
 Install dependencies:
-textpip install -r requirements.txt
+pip install -r requirements.txt
+
 
 Ensure all required modules are available. If any are missing, the script will prompt for installation.
+
 
 Usage
 
 Run the builder:
-textpython xesu_builder.py
+python xesu_builder.py
+
 
 In the GUI:
 
@@ -64,6 +68,7 @@ Click "Build" to generate the file in the Output/XesuBuilder directory.
 
 
 The built tool, when executed on a target Windows system, will collect configured data, perform actions, and send results to the webhook.
+
 
 Example Output
 
